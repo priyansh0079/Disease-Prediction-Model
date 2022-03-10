@@ -1,2 +1,2 @@
 # Disease-Prediction-Model
-A human physiology project using Data science and machine learning techniques made in python language.
+A human physiology project using Data Science and Machine Learning.
